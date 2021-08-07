@@ -1,1 +1,2 @@
-Este es el archivo base del proyecto
+Este es el archivo base del proyecto.
+Incluimos una línea.
