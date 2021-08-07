@@ -1,1 +1,1 @@
-Este fichero es el menú. Hacemos una pequeña modificación.
+Este fichero es el menú.
